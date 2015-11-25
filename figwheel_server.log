@@ -1,0 +1,233 @@
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.361 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.347 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.203 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.203 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/contacts-view at line 33 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/display-name at line 37 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/contacts-view at line 39 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.221 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/display-name at line 37 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/display-name at line 37 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/contacts-view at line 39 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/contact-view at line 40 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/display-name at line 46 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/middle-name at line 33 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Bad method signature in protocol implementation, om/IRender does not declare method called render-state at line 44 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Bad method signature in protocol implementation, om/IRender does not declare method called render-state at line 44 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.244 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/view at line 51 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/data at line 51 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/owner at line 51 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/owner at line 58 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/data at line 61 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/data at line 69 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/contacts-view at line 74 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.399 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.265 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/view at line 51 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/data at line 51 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/owner at line 51 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/owner at line 58 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/data at line 61 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/data at line 69 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/contacts-view at line 72 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.367 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.309 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.265 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.575 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/om_basic.js" failed.
+[0mANALYSIS ERROR: Too few arguments to if at line 29 src/om_basic/core.cljs on file src/om_basic/core.cljs, line 29, column 29
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.192 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.491 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.317 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.344 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.37 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.327 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/Add at line 92 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/contact at line 92 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.356 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.293 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.296 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.549 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.339 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/state at line 95 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.309 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.304 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/handle-change at line 96 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.366 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.297 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.312 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.323 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core/re-find at line 73 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.346 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to cljs.core/re-find at line 73 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.326 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.308 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_tut/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.203 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.31 seconds.[0m
