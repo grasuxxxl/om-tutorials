@@ -21,7 +21,8 @@
               [{:id "dev"
                 :source-paths ["src"]
 
-                :figwheel {:on-jsload "om_basic.core/on-js-reload"}
+                :figwheel {:load-warninged-code true
+                           :on-jsload "om_basic.core/on-js-reload"}
 
                 :compiler {:main om_basic.core
                            :asset-path "js/compiled/out"

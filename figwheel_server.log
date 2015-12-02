@@ -231,3 +231,104 @@ notifying browser that file changed:  resources/public/js/compiled/out/goog/deps
 notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
 notifying browser that file changed:  out/om_basic/core.js
 [32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.31 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/defmult at line 33 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 33 src/om_basic/core.cljs
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.427 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/defmult at line 33 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 33 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 35 src/om_basic/core.cljs
+[31mCompiling "resources/public/js/compiled/om_basic.js" failed.
+[0mANALYSIS ERROR: Unsupported binding form: (student-view person owner) at line 35 src/om_basic/core.cljs on file src/om_basic/core.cljs, line 35, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.197 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/defmult at line 50 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 50 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 52 src/om_basic/core.cljs
+[31mCompiling "resources/public/js/compiled/om_basic.js" failed.
+[0mANALYSIS ERROR: Unsupported binding form: (student-view person owner) at line 52 src/om_basic/core.cljs on file src/om_basic/core.cljs, line 52, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.232 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/defmult at line 50 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 50 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 52 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 55 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 65 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/people at line 65 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.371 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Use of undeclared Var om-basic.core/defmult at line 50 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 50 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 52 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 55 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/entry-view at line 74 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.331 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.386 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/om_basic.js" failed.
+[0mANALYSIS ERROR: Unsupported binding form: (professor-view person owner) at line 55 src/om_basic/core.cljs on file src/om_basic/core.cljs, line 55, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.367 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.305 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Bad method signature in protocol implementation, IClonable does not declare method called -clone at line 8 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/IClonable at line 8 src/om_basic/core.cljs
+WARNING: Symbol IClonable is not a protocol at line 8 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/IClonable at line 8 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/-clone at line 8 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.338 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.268 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Extending an existing JavaScript type - use a different symbol name instead of js/String e.g string at line 12 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.281 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Extending an existing JavaScript type - use a different symbol name instead of js/String e.g string at line 12 src/om_basic/core.cljs
+WARNING: Use of undeclared Var om-basic.core/editable at line 104 src/om_basic/core.cljs
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.557 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Extending an existing JavaScript type - use a different symbol name instead of js/String e.g string at line 12 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.351 seconds.[0m
+[0mCompiling "resources/public/js/compiled/om_basic.js" from ["src"]...
+WARNING: Extending an existing JavaScript type - use a different symbol name instead of js/String e.g string at line 12 src/om_basic/core.cljs
+notifying browser that file changed:  out/om_basic/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/om_basic.js" in 0.349 seconds.[0m
